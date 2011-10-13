@@ -6,9 +6,6 @@ Description: Allows for the creation of sites that are just directories
 Author: John Colvin
 */
 
-ini_set('display_errors', true);
-error_reporting(E_ALL);
-
 class DirectorySitePlugin {
   
   function DirectorySitePlugin() {
